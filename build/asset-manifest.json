@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/goodgames/static/css/main.e6ab7fbf.chunk.css",
+    "main.js": "/goodgames/static/js/main.5f1d8e2b.chunk.js",
+    "main.js.map": "/goodgames/static/js/main.5f1d8e2b.chunk.js.map",
+    "runtime-main.js": "/goodgames/static/js/runtime-main.49841f2d.js",
+    "runtime-main.js.map": "/goodgames/static/js/runtime-main.49841f2d.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/goodgames/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.ea6478da.chunk.js": "/goodgames/static/js/2.ea6478da.chunk.js",
+    "static/js/2.ea6478da.chunk.js.map": "/goodgames/static/js/2.ea6478da.chunk.js.map",
+    "static/js/3.ed284ef6.chunk.js": "/goodgames/static/js/3.ed284ef6.chunk.js",
+    "static/js/3.ed284ef6.chunk.js.map": "/goodgames/static/js/3.ed284ef6.chunk.js.map",
+    "index.html": "/goodgames/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/goodgames/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.e6ab7fbf.chunk.css.map": "/goodgames/static/css/main.e6ab7fbf.chunk.css.map",
+    "static/js/2.ea6478da.chunk.js.LICENSE.txt": "/goodgames/static/js/2.ea6478da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49841f2d.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.ea6478da.chunk.js",
+    "static/css/main.e6ab7fbf.chunk.css",
+    "static/js/main.5f1d8e2b.chunk.js"
+  ]
+}
